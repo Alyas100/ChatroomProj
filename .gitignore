@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Local environment credentials ###
+src/main/resources/serviceAccountKey.json
